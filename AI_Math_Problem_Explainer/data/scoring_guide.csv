@@ -1,0 +1,4 @@
+field,rule
+final_answer_score,1=mathematically correct; 0=incorrect or incomplete
+step_accuracy_score,1=all essential shown steps correct; 0=one or more essential steps wrong; blank=not applicable/not shown
+error_type,Use arithmetic; formula; algebraic; probability; calculus; logical; missing_condition; confident_wrong_reasoning; none

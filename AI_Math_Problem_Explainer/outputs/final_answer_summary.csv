@@ -1,0 +1,10 @@
+ai_tool,prompt_type,total_scored,final_answer_accuracy,final_answer_accuracy_pct
+ChatGPT,Plain,30,0.9,90.0
+ChatGPT,Self-verification,30,1.0,100.0
+ChatGPT,Step-by-step,30,1.0,100.0
+Claude,Plain,30,1.0,100.0
+Claude,Self-verification,30,1.0,100.0
+Claude,Step-by-step,30,1.0,100.0
+Gemini,Plain,30,0.8666666666666667,86.66666666666667
+Gemini,Self-verification,30,1.0,100.0
+Gemini,Step-by-step,30,0.9,90.0
